@@ -1,0 +1,17 @@
+p{
+
+    color: white;
+    background-color: black;
+}
+
+.red{
+
+    inline-size: 50%;
+    background-color: rgb(152, 240, 51);
+    color: red;
+}
+
+#boton-pago {
+
+    color: red blue;
+}
